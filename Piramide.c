@@ -1,3 +1,4 @@
+/*teste*/
 #include "Piramide.h"
 #include <stdio.h>
 #include <stdlib.h>
